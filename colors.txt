@@ -1,0 +1,3 @@
+background-#F8F8F8
+bright green-#A5C926
+pinky red-#FB416B
